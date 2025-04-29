@@ -5,7 +5,7 @@ Greater London, England, United Kingdom
 
 ## Contact
 - **LinkedIn:** [linkedin.com/in/chrisfarrugia](https://www.linkedin.com/in/chrisfarrugia)  
-- **GitHub:** [github.com/genericmethod](https://github.com/eRaz00r)
+- **GitHub:** [github.com/eRaz00r](https://github.com/eRaz00r)
 
 ## Top Skills
 - Software Development
