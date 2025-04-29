@@ -45,7 +45,7 @@ Greater London, England, United Kingdom
 
 ---
 
-### Blink – Love Work (London) — *May 2016 – Jun 2017*
+### Blink (London) — *May 2016 – Jun 2017*
 - Developed/maintained the **Java Chat-Bot SDK** (Sparkweb).  
 - Integrated Blink with internal & external REST APIs.  
 - Built *Company Bot*, *ServiceNow Bot* & *Jira Bot*.  
@@ -57,7 +57,7 @@ Greater London, England, United Kingdom
 
 ---
 
-### Yobetit (Sliema) — *Jul 2013 – Apr 2016*
+### Yobetit (Malta/Remote) — *Jul 2013 – Apr 2016*
 - Shipped the first **Yobetit Trading Platform** release; built odds tools, back-office & third-party integrations.  
 - Designed low-latency trading tools (Spring + AMQ + memcached + webhooks).  
 - Promoted to **Team Lead** (2015); managed sprints, reviews & stakeholder communication.  
@@ -66,7 +66,7 @@ Greater London, England, United Kingdom
 
 ---
 
-### BetClic Everest Group (Sliema) — *Jan 2012 – Jun 2013*  
+### BetClic Everest Group (Malta) — *Jan 2012 – Jun 2013*  
 **Software Developer (Java)**
 - Maintained the high-traffic **Expekt** sports-betting & casino platform (1 M+ users).  
 - Enhanced third-party casino integrations and launched **Microgaming** / **NetEnt** HTML5 games on mobile.  
@@ -74,7 +74,7 @@ Greater London, England, United Kingdom
 
 ---
 
-### iCube+ — *Aug 2009 – Dec 2011*  
+### iCube+ (Malta) — *Aug 2009 – Dec 2011*  
 **Software Engineer (Java)**
 - Designed/developed a web-based enterprise unified-communications platform (J2EE, Spring, Hibernate).  
 - Maintained features using MySQL, JUnit, Tomcat, Maven, SVN, Bamboo & JIRA.
@@ -89,7 +89,7 @@ Greater London, England, United Kingdom
 
 ---
 
-### ICON Malta — *Oct 2004 – Jan 2006*  
+### ICON (Malta) — *Oct 2004 – Jan 2006*  
 **Software Developer**
 - Designed and implemented **Snap** CMS; delivered Snap-based web apps.  
 - Handled DB administration, schema design, SQL and legacy-site maintenance.  
