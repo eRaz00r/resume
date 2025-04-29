@@ -1,14 +1,11 @@
 # Chris Farrugia  
-**Services & APIs – Engineer 4 at Tide**  
 Greater London, England, United Kingdom
 
 ---
 
 ## Contact
-- **Email:** [cfarrugia@gmail.com](mailto:cfarrugia@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/chrisfarrugia](https://www.linkedin.com/in/chrisfarrugia)  
-- **Website:** [chrisfarrugia.net](https://www.chrisfarrugia.net)  
-- **GitHub:** [github.com/genericmethod](https://github.com/genericmethod)
+- **GitHub:** [github.com/genericmethod](https://github.com/eRaz00r)
 
 ## Top Skills
 - Software Development
@@ -23,11 +20,9 @@ Greater London, England, United Kingdom
 | Maltese  | Native/Bilingual |
 
 ## Certifications
-- Safeguarding Children in Football  
-- Make Foundation  
+- Make Basics/Foundation/Intermediate 
 - AI Agents Fundamentals  
-- Make Basics  
-- **AI Red Teaming – Professional (AIRTP+)**
+- AI Red Teaming – Professional (AIRTP+)
 
 ---
 
