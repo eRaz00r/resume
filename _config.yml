@@ -1,9 +1,0 @@
-title: Chris Farrugia - Resume
-description: Software Engineer with 20+ years of experience
-theme: minima
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
-  syntax_highlighter: rouge
-
