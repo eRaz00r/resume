@@ -8,25 +8,13 @@
 
 ## PROFESSIONAL SUMMARY
 
-Software Engineer with over 20 years of experience in fintech platforms, enterprise integrations, and real-time systems. Comfortable working across the full stack, from building APIs and payment processing systems to collaborating with cross-functional teams. Experienced with payment systems, third-party integrations, and scalable architectures.
+Software Engineer with 20+ years of experience in software engineering, API integration, and building scalable solutions. Experienced with no-code platforms (Zapier, Make, Retool) and GenAI tools (gpt-5, claude-sonnet-4.5), with proven ability to rapidly upskill on new technologies as demonstrated throughout my career. Strong background in event-driven architectures and workflow automation from fintech experience at Tide, where I became the go-to expert for integrating third-party APIs and building automated workflows within the Financial Crime domain. 
 
 ---
 
 ## TECHNICAL SKILLS
 
-**Languages:** Java, JavaScript/Node.js, C#, Python, SQL
-
-**Frameworks & Libraries:** Spring Boot, Hibernate, Express.js, ASP.NET, J2EE
-
-**Databases:** MySQL, MongoDB, PostgreSQL, Redis, Memcached
-
-**Tools & Platforms:** Git, Github, Gradle, Maven, Docker, JIRA, Retool, Zapier, Make, Bamboo, Jenkins, Cursor
-
-**Cloud & DevOps:** AWS, CI/CD Pipelines, API Integration, Microservices
-
-**AI/ML:** Large Language Models (LLMs), AI Agents, Prompt Engineering, AI Red Teaming
-
-**Methodologies:** Agile/Scrum, TDD, Code Reviews, OKRs
+Experienced Java and JavaScript/Node.js developer, now aspiring to work as a polyglot using AI-assisted development tools (GPT-5, Claude Sonnet 4.5, GitHub Copilot, Cursor) to quickly adapt to new languages and frameworks. Skilled in REST API design, third-party integrations, webhooks, and microservices. Comfortable with automation platforms like Zapier, Make, and Retool. Backend experience includes Spring Boot, Hibernate, Express.js, and databases (MySQL, PostgreSQL, Redis). Familiar with AWS, CI/CD pipelines, Docker, and Agile/Scrum practices. Recently interested in prompt engineering and AI red teaming. 
 
 ---
 
@@ -34,118 +22,106 @@ Software Engineer with over 20 years of experience in fintech platforms, enterpr
 
 ### Senior Software Engineer IV
 
-**Tide, London, UK** \| *January 2021 – August 2023*
+**Tide, London, UK** \| *January 2021 – August 2023 (2 years 8 months)*
 
-- Designed and implemented analyst workflows integrating Kustomer and Unit21, closing critical audit findings and improving compliance posture
-- Led SEPA payment-screening initiatives, enhancing fraud detection capabilities and reducing payment processing risk by 35%
-- Championed high-volume Unit21 data-sync integration, reducing analysis costs by 50% and increasing rule coverage by 200%
-- Launched Xero Bank Feed API integration featured at XeroCon 2018, onboarding 5,000+ SMB customers
-- Built billing and paid-plan features generating £2M+ in additional annual revenue
-- Mentored 12+ engineers, promoted Agile best practices, and contributed to quarterly OKRs across product teams
-- Became in-house expert on Retool and third-party API integrations, reducing development time by 40%
-- Supported company hypergrowth from 60 to 1,500+ employees through Series A-C funding rounds
+- Designed analyst workflows with Kustomer and Unit21 integrations, improving efficiency and audit readiness.
+- Led initiatives to support the screening of SEPA payments.
+- Championed a major integration with Unit21, syncing millions of data points in an effort to reduce the operational cost of analysing transactions and building new rules to increase analytical depth
+- Built Xero Bank Feed API integration for transaction sync; launched at XeroCon 2018.
+- Developed billing and paid-plan features to diversify revenue.
+- Promoted Agile methodologies within the team, enhancing the efficiency of development cycles and responsiveness. I also led the onboarding of new engineers, fostering a culture of ownership and continuous learning
+- Contributed to quarterly OKR planning, aligning team efforts with company objectives and ensuring the achievement of our targets
+- Embraced opportunities to learn new skills, mastering tools like Retool, and being the point expert for the integrations with third-party APIs such as Kustomer and Unit21
+- Involved in refining the onboarding process for engineers, streamlining their integration into the team
+- Contributed through growth from 60 to 1,500 across three tech centers through Series A–C.
+- Advanced target architecture for scalability and innovation.
 
 ### Senior Software Engineer III
 
-**Tide, London, UK** \| *June 2019 – January 2021*
-
-- Developed core banking features supporting business account management and transaction processing
-- Architected scalable microservices handling 100K+ daily transactions
-- Collaborated with Product and Design teams to deliver customer-facing features
+**Tide, London, UK** \| *June 2019 – January 2021 (1 year 8 months)*
 
 ### Software Engineer
 
-**Tide, London, UK** \| *July 2018 – May 2019*
-
-- Built foundational platform features supporting company's rapid growth phase
-- Implemented REST APIs for account management and payment processing
-- Participated in on-call rotation ensuring 99.9% platform uptime
-
-### Software Engineer
-
-**Blink, London, UK** \| *May 2016 – June 2017*
-
-- Developed and maintained Java Chat-Bot SDK (Sparkweb) serving 50+ enterprise clients
-- Integrated Blink with internal and external REST APIs including ServiceNow, Jira, and company systems
-- Built enterprise bots: Company Bot, ServiceNow Bot, and Jira Bot, automating 1,000+ monthly support tickets
-- Created 20+ notification bots using Node.js (Express) with 99.5% uptime SLA
-- Published Blink App on Zapier platform, enabling 1,000+ app integrations and increasing user engagement by 300%
-- Implemented comprehensive API testing and monitoring in Runscope with PagerDuty alerting
-- Maintained complete production ownership of all bots with zero security incidents
-
-### Team Lead & Software Engineer
-
-**Yobetit, Malta/Remote** \| *July 2013 – April 2016*
-
-- Shipped first Yobetit Trading Platform release; architected odds calculation engine, back-office systems, and third-party integrations
-- Designed low-latency trading tools using Spring, ActiveMQ, Memcached, and webhooks, achieving <50ms response times
-- Promoted to Team Lead (2015); managed 5-person development team, sprint planning, and stakeholder communication
-- Reduced deployment time by 60% through CI/CD pipeline improvements (Bamboo, Git)
-- **Technology Stack:** MySQL, MongoDB, Spring, ActiveMQ, Jetty/Tomcat, Maven, Git, JUnit/Mockito, HTML/CSS/JS
-
-### Software Developer (Java)
-
-**BetClic Everest Group, Malta** \| *January 2012 – June 2013*
-
-- Maintained high-traffic Expekt sports-betting and casino platform serving 1M+ users with 99.9% uptime
-- Enhanced third-party casino integrations and launched Microgaming/NetEnt HTML5 games on mobile platforms
-- Migrated casino platform from Microgaming Vanguard to Quickfire, reducing operational costs by 30%
-- Refactored mobile product to unified platform architecture, eliminating code duplication by 40%
-
-### Software Engineer (Java)
-
-**iCube+, Malta** \| *August 2009 – December 2011*
-
-- Designed and developed web-based enterprise unified-communications platform using J2EE, Spring, and Hibernate
-- Implemented real-time messaging features supporting 10K+ concurrent users
-- Maintained platform features using MySQL, JUnit, Tomcat, Maven, SVN, Bamboo, and JIRA
-
-### Software Engineer (C# / Java)
-
-**CCBill, Malta** \| *March 2006 – June 2009*
-
-- Maintained media-management systems (C#, ASP.NET) for DRMNetworks processing 100K+ transactions monthly
-- Built catalog, shopping-cart, and download manager for video/audio media with secure DRM integration
-- Developed Java/Spring/Hibernate back-office APIs for client and user administration
+**Tide, London, UK** \| *July 2018 – May 2019 (11 months)*
 
 ### Software Developer
 
-**ICON, Malta** \| *October 2004 – January 2006*
+**Blink - Love work, London, UK** \| *May 2016 – June 2017 (1 year 2 months)*
 
-- Designed and implemented Snap CMS; delivered 15+ Snap-based web applications for enterprise clients
-- Handled database administration, schema design, SQL optimization, and legacy-site maintenance
-- Key contributor to achieving Microsoft Certified Partnership status
+- Developed and maintained the Java Chat Bot SDK (Sparkweb framework)
+- Integrated with the Blink REST API and various internal and external third party REST based APIs
+- Continuously liaised with the product architect to develop and maintain Company Bot, ServiceNow Bot and Jira Bot
+- Exposed chat bot content and configuration as Java REST APIs
+- Developed 20+ Notification bots using Node.js (Express.js)
+- Developed the Blink App on the Zapier platform, giving Blink users an easy way to connect to 1000+ apps
+- Implemented API tests and monitoring using Runscope. Also integrated Runscope with PagerDuty for alerting
+- Complete ownership of all bots up to production
 
----
+### Senior Java Software Developer / Team Lead
 
-## KEY PROJECTS
+**Yobetit, Sliema, Malta/Remote** \| *July 2013 – April 2016 (2 years 10 months)*
 
-### Payment Screening Platform
+Started off by developing and shipping the first release of the Yobetit Trading Platform. This involved developing small scale odds processing tools, building/maintaining Yobetit's back office and integrating with third-party APIs.
 
-**Tide** \| *2022 - 2023*
+Recently highly involved in the design, development and release of a new set of trading tools used to provide a real-time view of potential sure bet opportunities. This project was implemented using Spring, AMQ, memcached and webhooks to achieve a low latency system with highly decoupled modules.
 
-- Architected SEPA payment-screening system processing 50K+ transactions daily with real-time fraud detection
-- Integrated Unit21 fraud detection API with custom rule engines, achieving 95% accuracy rate
-- Reduced false positives by 40% through machine learning-based screening models
-- **Technologies:** Java, Spring Boot, Unit21 API, PostgreSQL, Redis, Kafka
+During the early months of 2015 I was promoted to team lead, where a percentage of my time was dedicated to managing sprints, time boxing tasks, encouraging best practices and promoting pragmatism, communication and debate. I also frequently engaged with stakeholders to determine the direction of the product and come up with creative workarounds to find the right balance between keeping quality high and getting things done.
 
-### Enterprise Chatbot Ecosystem
 
-**Blink** \| *2016 - 2017*
+**Day to day tasks:**
+- Managing Bamboo Builds, Git Branches and JIRA Tasks
+- Reviewing Pull Requests
+- Servicing Customer Support Requests
+- Planning, designing and implementing new features
+- Refactoring existing code and writing unit tests
+- Attending daily stand-up meeting
+- Task Time Boxing and Sprint Planning
 
-- Developed comprehensive chatbot SDK supporting ServiceNow, Jira, and internal enterprise systems
-- Published Blink app on Zapier marketplace, enabling seamless integration with 1,000+ applications
-- Built and deployed 20+ production bots serving 10K+ daily active users
-- **Technologies:** Java, Node.js, Express, REST APIs, Zapier, WebSockets
+**Technologies used:**
+- **Databases:** MySQL, MongoDB, H2
+- **Caching:** Memcached, Ehcache
+- **Application Framework:** Spring Core/MVC/Data (JPA/Mongo)/JMS
+- **Unit Testing:** JUnit, Mockito, Spring Test
+- **Web Servers:** Jetty, Tomcat
+- **Messaging:** ActiveMQ
+- **Workflow:** Maven, Git, Bamboo, JIRA, Bitbucket
+- **UI:** HTML, CSS, JSP, JSTL, Javascript, JQuery, Handlebars
 
-### Real-Time Trading Platform
+### Software Developer (Java)
 
-**Yobetit** \| *2013 - 2016*
+**BetClic Everest Group, Sliema, Malta** \| *January 2012 – June 2013 (1 year 6 months)*
 
-- Designed and launched low-latency trading platform from scratch handling 1M+ daily odds updates
-- Implemented real-time odds calculation and distribution system with <50ms latency
-- Built comprehensive back-office tools for trading operations, risk management, and reporting
-- **Technologies:** Spring, ActiveMQ, Memcached, MySQL, MongoDB, WebSockets
+- Developed and maintained software for the Expekt brand - a high performance, mission critical sports betting and online casino web application having 1,000,000+ registered customers
+- Regularly liaised with third party casino providers to enhance and maintain Expekt's third party casino integrations
+- Worked with the Expekt Mobile team to launch Microgaming and NetEnt HTML5 games on Expekt's Mobile Casino
+- Re-developed Expekt's casino lobbies to use a new casino game management system
+- Transitioned Expekt from the Microgaming Vanguard Casino platform to the Microgaming Quickfire platform
+- Together with the team, took over all software development from Sweden
+- Involved in refactoring Expekt's mobile product to a new common platform
+
+### Software Engineer (Java)
+
+**iCube+, Malta** \| *August 2009 – December 2011 (2 years 5 months)*
+
+Directly involved in the design and development of a web based enterprise unified communications platform. Day to day tasks include the implementation and maintenance of new features and services using the latest software technologies and tools:
+
+**Technologies:** J2SE, J2EE, Spring, Hibernate, Struts, JQuery, Freemarker, MySQL, JUnit, Apache Tomcat, Apache Maven, Subversion, Bamboo, JIRA, IntelliJ IDEA
+
+### Software Engineer (C# / Java)
+
+**CCBill, Malta** \| *March 2006 – June 2009 (3 years 4 months)*
+
+Initial tasks included maintaining media management systems written in C# and ASP.NET for DRMNetworks (CCBill's sister company). Also involved in the design, development and testing of a product catalog manager, shopping cart and download manager for video/audio media files.
+
+Joined the CCBill development team after a year where we developed back office APIs related to CCBill's client, company and user administration using Java, Spring and Hibernate.
+
+### Software Developer
+
+**ICON Malta, Malta** \| *October 2004 – January 2006 (1 year 4 months)*
+
+Designed and implemented Snap, an advanced content management platform giving clients a simple way to maintain various parts of their website.
+
+Also involved in the implementation of Snap based web applications for various clients. Other tasks included general database administration, database schema designs, SQL query implementation and maintenance of legacy websites. Also a key player in achieving Microsoft Certified Partnership.
 
 ---
 
